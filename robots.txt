@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madnessbrainsbl.github.io/talkaside/sitemap.xml
