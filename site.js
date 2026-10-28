@@ -117,10 +117,45 @@
     }, { threshold: 0.25 }).observe(app);
   });
 
+
+  var bar = d.querySelector(".bar");
+  var strip = d.querySelector(".strip");
+  if (bar && strip && "IntersectionObserver" in window) {
+    new IntersectionObserver(function (es) { bar.classList.toggle("is-stuck", !es[0].isIntersecting); }).observe(strip);
+  }
+  var stripTimer = d.querySelector(".strip-timer");
+  if (stripTimer) {
+    var stripStart = Date.now();
+    var pad = function (n) { return (n < 10 ? "0" : "") + n; };
+    setInterval(function () {
+      var s = Math.floor((Date.now() - stripStart) / 1000);
+      stripTimer.textContent = pad(Math.floor(s / 3600)) + ":" + pad(Math.floor(s / 60) % 60) + ":" + pad(s % 60);
+    }, 1000);
+  }
+  var sq = d.querySelector(".strip-text");
+  if (sq && !reduce) {
+    var qs = [];
+    try { qs = JSON.parse(sq.getAttribute("data-q") || "[]"); } catch (e) { qs = []; }
+    if (qs.length > 1) {
+      var qi = 0;
+      var typeQ = function (txt, k) {
+        sq.textContent = Array.from(txt).slice(0, k).join("");
+        if (k < Array.from(txt).length) setTimeout(function () { typeQ(txt, k + 1); }, 45);
+        else setTimeout(function () { eraseQ(txt, Array.from(txt).length); }, 2400);
+      };
+      var eraseQ = function (txt, k) {
+        sq.textContent = Array.from(txt).slice(0, k).join("");
+        if (k > 0) setTimeout(function () { eraseQ(txt, k - 1); }, 18);
+        else { qi = (qi + 1) % qs.length; setTimeout(function () { typeQ(qs[qi], 1); }, 300); }
+      };
+      setTimeout(function () { eraseQ(qs[0], Array.from(qs[0]).length); }, 2600);
+    }
+  }
+
   var hero = $$("[data-hero]");
   var g = window.gsap;
   if (g && !reduce) {
-    var nav = d.querySelector(".nav");
+    var nav = d.querySelector(".bar");
     var frame = d.querySelector(".hero-frame");
     var tl = g.timeline({ defaults: { ease: "expo.out" } });
     tl.fromTo(nav, { y: -32, opacity: 0 }, { y: 0, opacity: 1, duration: 1, clearProps: "transform" }, 0);
