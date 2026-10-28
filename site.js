@@ -34,6 +34,89 @@
     d.addEventListener("keydown", function (e) { if (e.key === "Escape" && langmenu.open) { langmenu.open = false; langmenu.querySelector("summary").focus(); } });
   }
 
+
+  var h1 = d.querySelector(".hero h1");
+  if (h1 && !reduce && d.documentElement.dir !== "rtl") {
+    var text = h1.textContent;
+    var cjk = /[぀-ヿ㐀-鿿가-힯]/.test(text) && !/\s/.test(text.trim());
+    var parts = cjk ? Array.from(text) : text.split(/(\s+)/);
+    var idx = 0;
+    h1.textContent = "";
+    parts.forEach(function (w) {
+      if (/^\s+$/.test(w)) { h1.appendChild(d.createTextNode(w)); return; }
+      var s = d.createElement("span");
+      s.className = "hw";
+      s.style.setProperty("--i", idx++);
+      s.textContent = w;
+      h1.appendChild(s);
+    });
+    h1.setAttribute("aria-label", text);
+    h1.classList.add("split");
+    h1.style.opacity = 1;
+    requestAnimationFrame(function () { requestAnimationFrame(function () { h1.classList.add("go"); }); });
+  }
+
+  if (window.matchMedia && matchMedia("(hover: hover)").matches) {
+    $$(".card, .use, .cross-card, .step").forEach(function (el) {
+      el.addEventListener("pointermove", function (e) {
+        var r = el.getBoundingClientRect();
+        el.style.setProperty("--mx", (e.clientX - r.left) + "px");
+        el.style.setProperty("--my", (e.clientY - r.top) + "px");
+      });
+    });
+  }
+
+  $$(".app[data-demo]").forEach(function (app) {
+    if (app.getAttribute("data-demo") === "hist" || reduce || !("IntersectionObserver" in window)) return;
+    var msgs = $$(".msg:not(.is-static)", app);
+    if (!msgs.length) return;
+    app.classList.add("play");
+    var visible = false, running = false, timer = 0;
+    var later = function (fn, ms) { timer = setTimeout(function () { if (!visible || d.hidden) { later(fn, 400); return; } fn(); }, ms); };
+    var type = function (p, done) {
+      var live = p.querySelector(".ai-live");
+      var chars = Array.from(p.getAttribute("data-full") || "");
+      var step = Math.max(1, Math.round(chars.length / 110));
+      var i = 0;
+      live.textContent = "";
+      var tick = function () {
+        i = Math.min(chars.length, i + step);
+        live.textContent = chars.slice(0, i).join("");
+        if (i < chars.length) later(tick, 22);
+        else { p.classList.add("done"); done(); }
+      };
+      tick();
+    };
+    var run = function () {
+      running = true;
+      var k = 0;
+      msgs.forEach(function (m) { m.classList.remove("on", "out", "thinking"); var t = m.querySelector(".ai-t"); if (t) t.classList.remove("done"); });
+      var next = function () {
+        if (k >= msgs.length) {
+          later(function () {
+            msgs.forEach(function (m) { m.classList.add("out"); });
+            later(run, 700);
+          }, 5200);
+          return;
+        }
+        var m = msgs[k++];
+        m.classList.add("on");
+        var t = m.querySelector(".ai-t[data-full]");
+        if (t) {
+          m.classList.add("thinking");
+          later(function () { m.classList.remove("thinking"); type(t, function () { later(next, 500); }); }, 1100);
+        } else {
+          later(next, app.getAttribute("data-demo") === "tr" ? 1000 : 1300);
+        }
+      };
+      later(next, 450);
+    };
+    new IntersectionObserver(function (es) {
+      visible = es[0].isIntersecting;
+      if (visible && !running) run();
+    }, { threshold: 0.25 }).observe(app);
+  });
+
   var hero = $$("[data-hero]");
   var g = window.gsap;
   if (g && !reduce) {
@@ -41,7 +124,7 @@
     var frame = d.querySelector(".hero-frame");
     var tl = g.timeline({ defaults: { ease: "expo.out" } });
     tl.fromTo(nav, { y: -32, opacity: 0 }, { y: 0, opacity: 1, duration: 1, clearProps: "transform" }, 0);
-    tl.fromTo(hero.filter(function (e) { return e !== frame; }), { y: 32, opacity: 0 }, { y: 0, opacity: 1, duration: 1.1, stagger: 0.09 }, 0.1);
+    tl.fromTo(hero.filter(function (e) { return e !== frame && !(e.tagName === "H1" && e.classList.contains("split")); }), { y: 32, opacity: 0 }, { y: 0, opacity: 1, duration: 1.1, stagger: 0.09 }, 0.1);
     if (frame) {
       tl.fromTo(frame, { y: 72, opacity: 0, rotationX: 16, scale: 0.94, transformPerspective: 1400, transformOrigin: "50% 0%" }, { y: 0, opacity: 1, rotationX: 0, scale: 1, duration: 1.5 }, 0.45);
       if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
@@ -93,7 +176,7 @@
     };
     var draw = function (t) {
       ctx.clearRect(0, 0, W, H);
-      ctx.fillStyle = "#181818";
+      ctx.fillStyle = "rgba(140, 165, 255, 0.14)";
       var gap = W / N, bw = Math.max(3, gap * 0.45);
       for (var i = 0; i < N; i++) {
         var x = gap * (i + 0.5);
