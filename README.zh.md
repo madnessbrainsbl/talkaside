@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside：面向 Windows 的 AI 面试助手与实时通话翻译
+# Talkaside: AI 面试助手与实时通话翻译
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 天免费试用
 

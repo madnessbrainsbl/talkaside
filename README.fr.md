@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside : assistant IA pour entretiens d'embauche et traduction d'appels en direct pour Windows
+# Talkaside: Assistant IA d’entretien et traduction d’appels en direct sous Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · démo gratuite de 5 jours
 

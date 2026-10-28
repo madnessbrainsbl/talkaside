@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: ИИ-помощник на собеседованиях и живой перевод звонков для Windows
+# Talkaside: ИИ помощник для собеседований и переводчик звонков для Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · бесплатное демо на 5 дней
 

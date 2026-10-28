@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: AI interview assistant and live call translation for Windows
+# Talkaside: AI interview assistant and live call translator for Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5-day free demo
 

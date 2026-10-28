@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Windows için yapay zeka destekli mülakat asistanı ve canlı görüşme çevirisi
+# Talkaside: Windows için mülakat yapay zeka asistanı ve canlı görüşme çevirisi
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 gün ücretsiz demo
 

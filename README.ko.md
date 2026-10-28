@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Windows용 AI 면접 도우미 및 실시간 통화 번역
+# Talkaside: 면접 AI 도우미와 실시간 통화 번역
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5일 무료 데모
 

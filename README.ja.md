@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside：Windows 向け AI 面接アシスタント・ライブ通話翻訳
+# Talkaside: AI面接アシスタントとリアルタイム通話翻訳
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5日間の無料デモ
 

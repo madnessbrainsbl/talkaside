@@ -117,4 +117,81 @@
       requestAnimationFrame(loop);
     }
   }
+
+  var tc = d.querySelector(".trail");
+  var heroEl = d.querySelector(".hero");
+  if (tc && tc.getContext && heroEl && !reduce) {
+    var tx = tc.getContext("2d");
+    var TW = 0, TH = 0, parts = [], last = null, idleAt = 0, auto = true, tAuto = 0, tOn = true, prevT = 0, ax = 0, ay = 0;
+    var colors = ["#5b8cff", "#a78bfa", "#f472b6", "#fb923c", "#4ade80", "#facc15"];
+    var glyphs = "/&*<>{}#=;+".split("");
+    var tsize = function () {
+      var dpr = Math.min(window.devicePixelRatio || 1, 1.5);
+      var r = tc.getBoundingClientRect();
+      TW = r.width; TH = r.height;
+      tc.width = Math.round(TW * dpr); tc.height = Math.round(TH * dpr);
+      tx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    };
+    var spawn = function (x, y) {
+      var s = 8 + Math.random() * 12;
+      parts.push({ x: x + (Math.random() - 0.5) * 12, y: y + (Math.random() - 0.5) * 12, s: s, c: colors[(Math.random() * colors.length) | 0], g: s > 13 ? glyphs[(Math.random() * glyphs.length) | 0] : "", t: 0, life: 650 + Math.random() * 550, vy: -0.015 - Math.random() * 0.03 });
+      if (parts.length > 160) parts.shift();
+    };
+    var follow = function (x, y) {
+      if (!last) { last = { x: x, y: y }; spawn(x, y); return; }
+      var dx = x - last.x, dy = y - last.y, dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist < 18) return;
+      var n = Math.min(8, Math.floor(dist / 18));
+      for (var i = 1; i <= n; i++) spawn(last.x + dx * i / n, last.y + dy * i / n);
+      last = { x: x, y: y };
+    };
+    var arrow = function (x, y) {
+      tx.save();
+      tx.translate(x, y);
+      tx.beginPath();
+      tx.moveTo(0, 0); tx.lineTo(0, 19); tx.lineTo(4.6, 14.6); tx.lineTo(8.2, 22.4); tx.lineTo(11.2, 21); tx.lineTo(7.6, 13.4); tx.lineTo(13.6, 13.4); tx.closePath();
+      tx.fillStyle = "#ffffff"; tx.fill();
+      tx.lineWidth = 1.4; tx.strokeStyle = "#000000"; tx.stroke();
+      tx.restore();
+    };
+    heroEl.addEventListener("pointermove", function (e) {
+      if (e.pointerType !== "mouse") return;
+      var r = tc.getBoundingClientRect();
+      if (auto) { auto = false; last = null; }
+      idleAt = performance.now();
+      follow(e.clientX - r.left, e.clientY - r.top);
+    });
+    heroEl.addEventListener("pointerleave", function () { last = null; idleAt = performance.now() - 1800; });
+    var tick2 = function (now) {
+      requestAnimationFrame(tick2);
+      if (!tOn || d.hidden) { prevT = now; return; }
+      var dt = Math.min(40, now - (prevT || now)); prevT = now;
+      if (!auto && now - idleAt > 2600) { auto = true; last = null; }
+      if (auto) {
+        tAuto += dt * 0.00042;
+        ax = TW * (0.5 + 0.4 * Math.sin(tAuto * 2.1));
+        ay = Math.min(TH, 760) * (0.3 + 0.36 * (0.5 + 0.5 * Math.sin(tAuto * 3.3 + 1)));
+        follow(ax, ay);
+      }
+      tx.clearRect(0, 0, TW, TH);
+      tx.textAlign = "center"; tx.textBaseline = "middle";
+      for (var i = parts.length - 1; i >= 0; i--) {
+        var p = parts[i];
+        p.t += dt;
+        if (p.t >= p.life) { parts.splice(i, 1); continue; }
+        var k = 1 - p.t / p.life, sz = p.s * (0.35 + 0.65 * k);
+        p.y += p.vy * dt;
+        tx.globalAlpha = Math.min(1, k * 1.5);
+        tx.fillStyle = p.c;
+        tx.fillRect(p.x - sz / 2, p.y - sz / 2, sz, sz);
+        if (p.g && k > 0.4) { tx.fillStyle = "#000000"; tx.font = "700 " + Math.round(sz * 0.64) + "px ui-monospace, Consolas, monospace"; tx.fillText(p.g, p.x, p.y + 0.5); }
+      }
+      tx.globalAlpha = 1;
+      if (auto) arrow(ax, ay);
+    };
+    tsize();
+    window.addEventListener("resize", tsize);
+    if ("IntersectionObserver" in window) new IntersectionObserver(function (es) { tOn = es[0].isIntersecting; }).observe(heroEl);
+    requestAnimationFrame(tick2);
+  }
 })();

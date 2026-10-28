@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: KI-Assistent für Vorstellungsgespräche und Live-Übersetzung von Anrufen für Windows
+# Talkaside: KI Interview Assistent und Live-Übersetzung für Anrufe unter Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 Tage kostenlose Demo
 

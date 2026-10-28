@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Windows के लिए AI इंटरव्यू असिस्टेंट और लाइव कॉल अनुवाद
+# Talkaside: इंटरव्यू AI असिस्टेंट और लाइव कॉल ट्रांसलेशन, Windows पर
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 दिन का मुफ़्त डेमो
 
