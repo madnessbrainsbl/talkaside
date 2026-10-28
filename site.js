@@ -2,6 +2,7 @@
   var d = document;
   window.__ts = 1;
   var reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var lite = window.matchMedia && matchMedia("(max-width: 47.99rem), (pointer: coarse)").matches;
   var $$ = function (s, r) { return [].slice.call((r || d).querySelectorAll(s)); };
 
   var rv = $$(".reveal");
@@ -35,25 +36,10 @@
   }
 
 
-  var h1 = d.querySelector(".hero h1");
-  if (h1 && !reduce && d.documentElement.dir !== "rtl") {
-    var text = h1.textContent;
-    var cjk = /[぀-ヿ㐀-鿿가-힯]/.test(text) && !/\s/.test(text.trim());
-    var parts = cjk ? Array.from(text) : text.split(/(\s+)/);
-    var idx = 0;
-    h1.textContent = "";
-    parts.forEach(function (w) {
-      if (/^\s+$/.test(w)) { h1.appendChild(d.createTextNode(w)); return; }
-      var s = d.createElement("span");
-      s.className = "hw";
-      s.style.setProperty("--i", idx++);
-      s.textContent = w;
-      h1.appendChild(s);
-    });
-    h1.setAttribute("aria-label", text);
-    h1.classList.add("split");
-    h1.style.opacity = 1;
-    requestAnimationFrame(function () { requestAnimationFrame(function () { h1.classList.add("go"); }); });
+  var h1 = d.querySelector(".hero h1.split");
+  if (h1) {
+    if (reduce) h1.classList.add("go");
+    else requestAnimationFrame(function () { requestAnimationFrame(function () { h1.classList.add("go"); }); });
   }
 
   if (window.matchMedia && matchMedia("(hover: hover)").matches) {
@@ -230,7 +216,7 @@
     size();
     draw(2000);
     window.addEventListener("resize", function () { size(); draw(2000); });
-    if (!reduce) {
+    if (!reduce && !lite) {
       if ("IntersectionObserver" in window) new IntersectionObserver(function (es) { vis = es[0].isIntersecting; }).observe(cv);
       requestAnimationFrame(loop);
     }
@@ -238,7 +224,7 @@
 
   var tc = d.querySelector(".trail");
   var heroEl = d.querySelector(".hero");
-  if (tc && tc.getContext && heroEl && !reduce) {
+  if (tc && tc.getContext && heroEl && !reduce && !lite) {
     var tx = tc.getContext("2d");
     var TW = 0, TH = 0, parts = [], last = null, idleAt = 0, auto = true, tAuto = 0, tOn = true, prevT = 0, ax = 0, ay = 0;
     var colors = ["#5b8cff", "#a78bfa", "#f472b6", "#fb923c", "#4ade80", "#facc15"];

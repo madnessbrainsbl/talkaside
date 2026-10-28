@@ -5,6 +5,7 @@
 ## Facts
 
 - Platform: Windows 10 and 11, 64 bit. No macOS, Linux or mobile version.
+- Download: https://talkaside.com/download (always the current Windows installer).
 - Price: free 5 day demo, one activation per device. Paid licences for 7 days, 30 days or one year at https://talkaside.com/
 - Call apps: Zoom, Microsoft Teams, Google Meet and other apps, because Talkaside captures the call audio from Windows. The other person installs nothing.
 - Interview help: two AI assistants read the live transcript with the user's CV, the job description and the user's own Q&A bank, and suggest an answer.
