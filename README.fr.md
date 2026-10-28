@@ -4,6 +4,8 @@
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · démo gratuite de 5 jours
 
+[Assistant IA d’entretien et traduction d’appels en direct sous Windows](https://madnessbrainsbl.github.io/talkaside/fr/) · [Assistant IA d’entretien](https://madnessbrainsbl.github.io/talkaside/fr/ai-interview-assistant/) · [Traduction d’appels en direct](https://madnessbrainsbl.github.io/talkaside/fr/live-call-translator/)
+
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 
 ![Talkaside](social-preview.png)

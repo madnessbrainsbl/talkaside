@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Assistente IA para entrevista de emprego e tradutor de chamadas
+# Talkaside: Assistente IA para entrevista de emprego e tradutor de chamadas no Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · demo gratuita de 5 dias
+
+[Assistente IA para entrevista de emprego e tradutor de chamadas no Windows](https://madnessbrainsbl.github.io/talkaside/pt-br/) · [Assistente IA para entrevista](https://madnessbrainsbl.github.io/talkaside/pt-br/ai-interview-assistant/) · [Tradutor de chamadas](https://madnessbrainsbl.github.io/talkaside/pt-br/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

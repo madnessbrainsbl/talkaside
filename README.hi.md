@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: इंटरव्यू AI असिस्टेंट और लाइव कॉल ट्रांसलेशन, Windows पर
+# Talkaside: Windows पर इंटरव्यू AI असिस्टेंट और लाइव कॉल अनुवाद
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 दिन का मुफ़्त डेमो
+
+[Windows पर इंटरव्यू AI असिस्टेंट और लाइव कॉल अनुवाद](https://madnessbrainsbl.github.io/talkaside/hi/) · [इंटरव्यू AI असिस्टेंट](https://madnessbrainsbl.github.io/talkaside/hi/ai-interview-assistant/) · [लाइव कॉल अनुवाद](https://madnessbrainsbl.github.io/talkaside/hi/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

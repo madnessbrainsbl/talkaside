@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Windows için mülakat yapay zeka asistanı ve canlı görüşme çevirisi
+# Talkaside: Windows için yapay zeka mülakat asistanı ve canlı görüşme çevirisi
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 gün ücretsiz demo
+
+[Windows için yapay zeka mülakat asistanı ve canlı görüşme çevirisi](https://madnessbrainsbl.github.io/talkaside/tr/) · [Yapay zeka mülakat asistanı](https://madnessbrainsbl.github.io/talkaside/tr/ai-interview-assistant/) · [Canlı görüşme çevirisi](https://madnessbrainsbl.github.io/talkaside/tr/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

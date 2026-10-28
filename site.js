@@ -37,6 +37,19 @@
 
 
   var h1 = d.querySelector(".hero h1.split");
+  var fitH1 = function () {
+    if (!h1) return;
+    h1.style.fontSize = "";
+    var size = parseFloat(getComputedStyle(h1).fontSize);
+    var words = h1.querySelectorAll(".hw");
+    h1.classList.add("measure");
+    var tooWide = function () { for (var i = 0; i < words.length; i++) if (words[i].getBoundingClientRect().width > h1.clientWidth + 1) return true; return false; };
+    while (size > 26 && tooWide()) { size -= 2; h1.style.fontSize = size + "px"; }
+    h1.classList.remove("measure");
+  };
+  fitH1();
+  if (d.fonts && d.fonts.ready) d.fonts.ready.then(fitH1);
+  window.addEventListener("resize", function () { requestAnimationFrame(fitH1); });
   if (h1) {
     if (reduce) h1.classList.add("go");
     else requestAnimationFrame(function () { requestAnimationFrame(function () { h1.classList.add("go"); }); });
@@ -107,6 +120,9 @@
 
   var codesNav = d.querySelector(".codes");
   var codeCur = codesNav && codesNav.querySelector('[aria-current="page"]');
+  var markOverflow = function () { if (codesNav) codesNav.classList.toggle("is-overflowing", codesNav.scrollWidth > codesNav.clientWidth + 1); };
+  markOverflow();
+  window.addEventListener("resize", markOverflow);
   if (codeCur && codesNav.scrollWidth > codesNav.clientWidth) {
     codesNav.scrollLeft = codeCur.offsetLeft - codesNav.offsetLeft - (codesNav.clientWidth - codeCur.offsetWidth) / 2;
   }

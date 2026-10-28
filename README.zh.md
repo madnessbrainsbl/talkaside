@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: AI 面试助手与实时通话翻译
+# Talkaside: Windows 版 AI 面试助手与实时通话翻译
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 天免费试用
+
+[Windows 版 AI 面试助手与实时通话翻译](https://madnessbrainsbl.github.io/talkaside/zh/) · [AI 面试助手](https://madnessbrainsbl.github.io/talkaside/zh/ai-interview-assistant/) · [通话实时翻译](https://madnessbrainsbl.github.io/talkaside/zh/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

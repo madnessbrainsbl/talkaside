@@ -17,109 +17,109 @@
 ## Pages
 
 ### Русский
-- [Talkaside: ИИ помощник на собеседовании и переводчик звонков](https://madnessbrainsbl.github.io/talkaside/): ИИ помощник на собеседовании подсказывает ответы, переводчик звонков работает в Zoom, Teams и Google Meet. Windows 10 и 11, демо 5 дней бесплатно.
-- [ИИ помощник на собеседовании для Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/ai-interview-assistant/): Talkaside слушает собеседование и подсказывает ответы в реальном времени с учётом резюме и вакансии. Работает с Zoom, Teams и Google Meet.
-- [Переводчик звонков в реальном времени | Talkaside](https://madnessbrainsbl.github.io/talkaside/live-call-translator/): Перевод обеих сторон звонка в реальном времени на Windows. Talkaside работает с Zoom, Microsoft Teams и Google Meet. Демо 5 дней бесплатно.
+- [Talkaside: ИИ-ассистент на собеседовании и перевод звонков](https://madnessbrainsbl.github.io/talkaside/): ИИ-ассистент на собеседовании подсказывает ответы, переводчик звонков работает в Zoom, Teams и Google Meet. Windows 10 и 11, бесплатное демо на 5 дней.
+- [ИИ-ассистент на собеседовании для Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/ai-interview-assistant/): Talkaside слушает собеседование и подсказывает ответы в реальном времени с учётом резюме и вакансии. Работает с Zoom, Teams и Google Meet.
+- [Переводчик звонков в реальном времени | Talkaside](https://madnessbrainsbl.github.io/talkaside/live-call-translator/): Перевод обеих сторон звонка в реальном времени на Windows. Talkaside работает с Zoom, Microsoft Teams и Google Meet. Бесплатное демо на 5 дней.
 - Search phrases: ИИ помощник для собеседований; переводчик звонков в реальном времени; подсказки на собеседовании нейросеть; перевод разговора Zoom
 
 ### English
-- [Talkaside: AI interview assistant and live call translator](https://madnessbrainsbl.github.io/talkaside/en/): AI interview assistant that suggests answers, plus a live call translator for Zoom, Teams and Google Meet. Windows 10 and 11, free 5 day demo.
+- [Talkaside: AI interview assistant and live call translator](https://madnessbrainsbl.github.io/talkaside/en/): AI interview assistant that suggests answers, plus a live call translator for Zoom, Teams and Google Meet. Windows 10 and 11, free 5-day demo.
 - [AI interview assistant for Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/en/ai-interview-assistant/): Talkaside listens to your interview call and suggests answers in real time, based on your CV and the job. Works with Zoom, Teams and Google Meet.
-- [Live call translator for Zoom, Teams and Meet | Talkaside](https://madnessbrainsbl.github.io/talkaside/en/live-call-translator/): Translate both sides of a call in real time on Windows. Talkaside works with Zoom, Microsoft Teams and Google Meet. Free 5 day demo.
-- Search phrases: AI interview assistant; real time call translator; live interview answers AI; Zoom call translation
+- [Live call translator for Zoom, Teams and Meet | Talkaside](https://madnessbrainsbl.github.io/talkaside/en/live-call-translator/): Translate both sides of a call in real time on Windows. Talkaside works with Zoom, Microsoft Teams and Google Meet. Free 5-day demo.
+- Search phrases: AI interview assistant; real-time call translator; live interview answers AI; Zoom call translation
 
 ### Deutsch
-- [Talkaside: KI Interview Assistent und Live-Übersetzung](https://madnessbrainsbl.github.io/talkaside/de/): KI Interview Assistent mit Antwortvorschlägen und Live-Übersetzung für Zoom, Microsoft Teams und Google Meet. Windows 10 und 11, 5-Tage-Demo kostenlos.
-- [KI Interview Assistent für Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/de/ai-interview-assistant/): Talkaside schlägt im Vorstellungsgespräch Antworten in Echtzeit vor, auf Basis Ihres Lebenslaufs. Für Zoom, Teams und Google Meet unter Windows.
-- [Live Übersetzung für Anrufe unter Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/de/live-call-translator/): Beide Seiten eines Anrufs in Echtzeit übersetzen, unter Windows. Talkaside funktioniert mit Zoom, Microsoft Teams und Google Meet. Demo 5 Tage kostenlos.
+- [Talkaside: KI-Interview-Assistent und Live-Übersetzung](https://madnessbrainsbl.github.io/talkaside/de/): KI-Interview-Assistent mit Antwortvorschlägen und Live-Übersetzung für Zoom, Microsoft Teams und Google Meet. Windows 10 und 11, 5-Tage-Demo kostenlos.
+- [KI-Interview-Assistent für Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/de/ai-interview-assistant/): Talkaside hört Ihr Interview mit und schlägt Antworten in Echtzeit vor, basierend auf Lebenslauf und Stelle. Mit Zoom, Teams und Google Meet unter Windows.
+- [Live-Übersetzung für Anrufe unter Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/de/live-call-translator/): Beide Seiten eines Anrufs in Echtzeit übersetzen, unter Windows. Talkaside funktioniert mit Zoom, Microsoft Teams und Google Meet. 5-Tage-Demo kostenlos.
 - Search phrases: ki interview assistent; live übersetzung anrufe; ki assistent vorstellungsgespräch; übersetzung zoom meeting
 
 ### 中文
-- [Talkaside: AI 面试助手与实时通话翻译](https://madnessbrainsbl.github.io/talkaside/zh/): AI 面试助手给出回答建议，实时翻译 Zoom、Microsoft Teams、Google Meet 通话。适用于 Windows 10 和 11。
+- [Talkaside: AI 面试助手与实时通话翻译](https://madnessbrainsbl.github.io/talkaside/zh/): AI 面试助手给出回答建议，实时翻译 Zoom、Microsoft Teams、Google Meet 通话。适用于 Windows 10 和 11，提供 5 天免费演示。
 - [AI 面试助手 Windows 版 | Talkaside](https://madnessbrainsbl.github.io/talkaside/zh/ai-interview-assistant/): Talkaside 听取面试通话，根据你的简历和职位描述实时给出回答建议。支持 Zoom、Teams 和 Google Meet。
 - [Zoom 与 Teams 通话实时翻译 | Talkaside](https://madnessbrainsbl.github.io/talkaside/zh/live-call-translator/): 在 Windows 上实时翻译通话双方的发言，支持 Zoom、Microsoft Teams 和 Google Meet。5 天免费演示。
-- Search phrases: AI 面试助手; 实时翻译 Zoom Teams; 面试 实时字幕 翻译; 通话实时翻译软件
+- Search phrases: AI 面试助手; Zoom 通话翻译; 面试实时回答 AI; 通话实时翻译软件
 
 ### Español
 - [Talkaside: asistente IA para entrevistas y traductor en vivo](https://madnessbrainsbl.github.io/talkaside/es/): Asistente IA para entrevistas que sugiere respuestas y traduce llamadas en vivo en Zoom, Teams y Google Meet. Windows 10 y 11, demo gratuita de 5 días.
 - [Asistente IA para entrevistas de trabajo | Talkaside](https://madnessbrainsbl.github.io/talkaside/es/ai-interview-assistant/): Talkaside escucha tu entrevista de trabajo y sugiere respuestas en tiempo real según tu currículo y el puesto. Compatible con Zoom, Teams y Google Meet.
-- [Traductor de llamadas en tiempo real | Talkaside](https://madnessbrainsbl.github.io/talkaside/es/live-call-translator/): Traduce los dos lados de una llamada en tiempo real en Windows. Compatible con Zoom, Microsoft Teams y Google Meet. Demo gratuita de 5 días.
+- [Traductor de llamadas en vivo | Talkaside](https://madnessbrainsbl.github.io/talkaside/es/live-call-translator/): Traduce los dos lados de una llamada en tiempo real en Windows. Compatible con Zoom, Microsoft Teams y Google Meet. Demo gratuita de 5 días.
 - Search phrases: asistente ia para entrevistas de trabajo; traductor de llamadas en tiempo real; copiloto para entrevistas ia; traducción de llamadas zoom
 
 ### Français
-- [Talkaside: assistant IA d’entretien et traduction d’appels](https://madnessbrainsbl.github.io/talkaside/fr/): Copilote IA pour entretiens et traduction d’appels en direct sur Zoom, Teams et Google Meet. Windows 10 et 11, démo gratuite de 5 jours.
+- [Talkaside : assistant IA d’entretien et traduction d’appels](https://madnessbrainsbl.github.io/talkaside/fr/): Assistant IA pour entretiens et traduction d’appels en direct sur Zoom, Teams et Google Meet. Windows 10 et 11, démo gratuite de 5 jours.
 - [Assistant IA d’entretien pour Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/fr/ai-interview-assistant/): Talkaside écoute votre entretien et suggère des réponses en temps réel, selon votre CV et le poste. Compatible avec Zoom, Teams et Google Meet.
 - [Traduction d’appels en direct sous Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/fr/live-call-translator/): Traduisez les deux côtés d’un appel en temps réel sous Windows. Compatible avec Zoom, Microsoft Teams et Google Meet. Démo gratuite de 5 jours.
 - Search phrases: assistant ia entretien; copilote entretien ia; traduction appel en direct; traducteur appels zoom
 
 ### Português
 - [Talkaside: assistente IA para entrevista e tradutor ao vivo](https://madnessbrainsbl.github.io/talkaside/pt-br/): Assistente IA para entrevistas de emprego e tradutor de chamadas em tempo real para Zoom, Teams e Google Meet. Windows 10 e 11, demo grátis de 5 dias.
-- [Assistente IA para entrevista de emprego | Talkaside](https://madnessbrainsbl.github.io/talkaside/pt-br/ai-interview-assistant/): Talkaside ouve sua entrevista de emprego e sugere respostas em tempo real, com base no seu currículo. Funciona com Zoom, Teams e Google Meet.
+- [Assistente IA para entrevista de emprego | Talkaside](https://madnessbrainsbl.github.io/talkaside/pt-br/ai-interview-assistant/): Talkaside ouve sua entrevista de emprego e sugere respostas em tempo real, com base no seu currículo e na vaga. Funciona com Zoom, Teams e Google Meet.
 - [Tradutor de chamadas em tempo real | Talkaside](https://madnessbrainsbl.github.io/talkaside/pt-br/live-call-translator/): Traduza os dois lados de uma chamada em tempo real no Windows, com Zoom, Microsoft Teams e Google Meet. Talkaside tem demo grátis de 5 dias.
 - Search phrases: assistente ia para entrevista de emprego; tradutor de chamadas em tempo real; tradutor de chamadas zoom; assistente de entrevista com ia
 
 ### 日本語
-- [Talkaside: AI面接アシスタントと通話のリアルタイム翻訳](https://madnessbrainsbl.github.io/talkaside/ja/): AI面接アシスタントが回答のヒントを出し、Zoom、Microsoft Teams、Google Meetの通話をリアルタイムで翻訳。Windows 10と11に対応。
-- [Windows向けAI面接アシスタント | Talkaside](https://madnessbrainsbl.github.io/talkaside/ja/ai-interview-assistant/): Talkasideは面接の通話を聞き取り、履歴書と求人票をもとに回答のヒントをリアルタイムで表示。Zoom、Teams、Google Meetに対応。
-- [リアルタイム通話翻訳 Zoom対応 | Talkaside](https://madnessbrainsbl.github.io/talkaside/ja/live-call-translator/): Windowsで通話の双方の発言をリアルタイム翻訳。Zoom、Microsoft Teams、Google Meetに対応。5日間の無料デモ。
-- Search phrases: AI面接アシスタント; 面接 リアルタイム翻訳; 通話 リアルタイム翻訳 アプリ; 面接 AI コパイロット
+- [Talkaside: AI面接アシスタントと通話のリアルタイム翻訳](https://madnessbrainsbl.github.io/talkaside/ja/): AI面接アシスタントが回答のヒントを出し、Zoom、Microsoft Teams、Google Meetの通話をリアルタイムで翻訳します。Windows 10と11に対応し、5日間の無料デモがあります。
+- [Windows向けAI面接アシスタント | Talkaside](https://madnessbrainsbl.github.io/talkaside/ja/ai-interview-assistant/): Talkasideは面接の通話を聞き取り、履歴書と求人票をもとに、回答のヒントをリアルタイムで表示します。Zoom、Teams、Google Meetに対応しています。
+- [Zoom、Teams、Meet対応のリアルタイム通話翻訳 | Talkaside](https://madnessbrainsbl.github.io/talkaside/ja/live-call-translator/): Windowsで通話の双方の発言をリアルタイムで翻訳します。Zoom、Microsoft Teams、Google Meetに対応し、5日間の無料デモがあります。
+- Search phrases: AI面接アシスタント; リアルタイム通話翻訳; 面接 リアルタイム回答 AI; Zoom 通話翻訳
 
 ### 한국어
 - [Talkaside: Windows 면접 AI 도우미, 실시간 통화 번역](https://madnessbrainsbl.github.io/talkaside/ko/): 면접 중 답변을 제안하는 AI 도우미와 Zoom, Microsoft Teams, Google Meet 통화의 실시간 번역. Windows 10 및 11, 5일 무료 데모.
 - [Windows용 면접 AI 도우미 | Talkaside](https://madnessbrainsbl.github.io/talkaside/ko/ai-interview-assistant/): Talkaside는 면접 통화를 듣고, 이력서와 채용 공고를 바탕으로 답변을 실시간으로 제안합니다. Zoom, Teams, Google Meet를 지원합니다.
 - [Zoom과 Teams 실시간 통화 번역 | Talkaside](https://madnessbrainsbl.github.io/talkaside/ko/live-call-translator/): Windows에서 통화 양쪽의 말을 실시간으로 번역합니다. Talkaside는 Zoom, Microsoft Teams, Google Meet와 함께 쓸 수 있으며, 5일 무료 데모를 제공합니다.
-- Search phrases: 면접 AI 도우미; 면접 실시간 코파일럿; 실시간 통화 번역; Zoom 실시간 번역
+- Search phrases: 면접 AI 도우미; 면접 실시간 답변 AI; 실시간 통화 번역; Zoom 실시간 번역
 
 ### العربية
 - [Talkaside: مساعد المقابلات الذكي وترجمة المكالمات الفورية](https://madnessbrainsbl.github.io/talkaside/ar/): مساعد ذكاء اصطناعي يقترح الأجوبة في المقابلات، ومترجم فوري للمكالمات على Zoom وMicrosoft Teams وGoogle Meet. Windows 10 و11، عرض تجريبي مجاني لمدة 5 أيام.
 - [مساعد المقابلات بالذكاء الاصطناعي | Talkaside](https://madnessbrainsbl.github.io/talkaside/ar/ai-interview-assistant/): يستمع Talkaside إلى مكالمة المقابلة ويقترح أجوبة فورية استنادًا إلى سيرتك الذاتية ووصف الوظيفة. يعمل مع Zoom وTeams وGoogle Meet.
 - [ترجمة المكالمات الفورية على Zoom وTeams | Talkaside](https://madnessbrainsbl.github.io/talkaside/ar/live-call-translator/): ترجم طرفي المكالمة في الوقت الفعلي على Windows. يعمل Talkaside مع Zoom وMicrosoft Teams وGoogle Meet. عرض تجريبي مجاني لمدة 5 أيام.
-- Search phrases: مساعد المقابلات بالذكاء الاصطناعي; ترجمة المكالمات الفورية; مساعد مقابلة العمل; ترجمة مكالمات Zoom
+- Search phrases: مساعد المقابلات بالذكاء الاصطناعي; ترجمة المكالمات الفورية; أجوبة المقابلات الفورية بالذكاء الاصطناعي; ترجمة مكالمات Zoom
 
 ### हिन्दी
-- [Talkaside: इंटरव्यू AI असिस्टेंट और लाइव कॉल ट्रांसलेशन](https://madnessbrainsbl.github.io/talkaside/hi/): इंटरव्यू में AI असिस्टेंट जवाब सुझाता है, और Zoom, Microsoft Teams व Google Meet पर लाइव कॉल ट्रांसलेशन। Windows 10 और 11, 5 दिन का मुफ़्त डेमो।
-- [इंटरव्यू AI असिस्टेंट Windows के लिए | Talkaside](https://madnessbrainsbl.github.io/talkaside/hi/ai-interview-assistant/): Talkaside इंटरव्यू कॉल सुनता है और आपके सीवी व नौकरी के विवरण के आधार पर रीयल टाइम में जवाब सुझाता है। Zoom, Teams और Google Meet के साथ काम करता है।
-- [लाइव कॉल ट्रांसलेशन Zoom और Teams के लिए | Talkaside](https://madnessbrainsbl.github.io/talkaside/hi/live-call-translator/): Windows पर कॉल के दोनों तरफ़ की बात रीयल टाइम में अनुवाद करें। Talkaside Zoom, Microsoft Teams और Google Meet के साथ काम करता है। 5 दिन का मुफ़्त डेमो।
-- Search phrases: इंटरव्यू AI असिस्टेंट; इंटरव्यू में AI से जवाब; लाइव कॉल ट्रांसलेशन; Zoom कॉल ट्रांसलेशन
+- [Talkaside: इंटरव्यू AI असिस्टेंट और लाइव कॉल अनुवाद](https://madnessbrainsbl.github.io/talkaside/hi/): इंटरव्यू में AI असिस्टेंट जवाब सुझाता है, और Zoom, Microsoft Teams और Google Meet पर लाइव कॉल अनुवाद। Windows 10 और 11, 5 दिन का मुफ़्त डेमो।
+- [इंटरव्यू AI असिस्टेंट Windows के लिए | Talkaside](https://madnessbrainsbl.github.io/talkaside/hi/ai-interview-assistant/): Talkaside इंटरव्यू कॉल सुनता है और आपके सीवी और नौकरी के विवरण के आधार पर रीयल टाइम में जवाब सुझाता है। Zoom, Teams और Google Meet के साथ काम करता है।
+- [लाइव कॉल अनुवाद Zoom और Teams के लिए | Talkaside](https://madnessbrainsbl.github.io/talkaside/hi/live-call-translator/): Windows पर कॉल के दोनों तरफ़ की बात रीयल टाइम में अनुवाद करें। Talkaside Zoom, Microsoft Teams और Google Meet के साथ काम करता है। 5 दिन का मुफ़्त डेमो।
+- Search phrases: इंटरव्यू AI असिस्टेंट; इंटरव्यू में AI से जवाब; लाइव कॉल अनुवाद; Zoom कॉल अनुवाद
 
 ### Türkçe
 - [Talkaside: Yapay zeka mülakat asistanı ve canlı çeviri](https://madnessbrainsbl.github.io/talkaside/tr/): Mülakatlarda yapay zeka cevap önerir. Zoom, Microsoft Teams ve Google Meet görüşmelerini canlı çevirir. Windows 10 ve 11, 5 günlük ücretsiz demo.
-- [Mülakat yapay zeka asistanı Windows için | Talkaside](https://madnessbrainsbl.github.io/talkaside/tr/ai-interview-assistant/): Talkaside mülakatı dinler, özgeçmişinize ve iş ilanına göre canlı cevap önerir. Zoom, Teams ve Google Meet ile çalışır. 5 günlük ücretsiz demo.
+- [Yapay zeka mülakat asistanı Windows için | Talkaside](https://madnessbrainsbl.github.io/talkaside/tr/ai-interview-assistant/): Talkaside mülakatı dinler, özgeçmişinize ve iş ilanına göre canlı cevap önerir. Zoom, Teams ve Google Meet ile çalışır.
 - [Canlı görüşme çevirisi Zoom ve Teams için | Talkaside](https://madnessbrainsbl.github.io/talkaside/tr/live-call-translator/): Windows'ta görüşmenin iki tarafını canlı çevirin. Talkaside, Zoom, Microsoft Teams ve Google Meet ile çalışır. 5 günlük ücretsiz demo.
 - Search phrases: mülakat yapay zeka asistanı; canlı görüşme çevirisi; Zoom görüşme çevirisi; mülakatta yapay zeka cevap önerisi
 
 ### Bahasa Indonesia
-- [Talkaside: Asisten wawancara AI dan penerjemah panggilan](https://madnessbrainsbl.github.io/talkaside/id/): Asisten wawancara AI yang memberi saran jawaban, plus penerjemah panggilan real time untuk Zoom, Microsoft Teams, dan Google Meet. Windows 10 dan 11.
+- [Talkaside: Asisten wawancara AI dan penerjemah panggilan](https://madnessbrainsbl.github.io/talkaside/id/): Asisten wawancara AI memberi saran jawaban. Penerjemah panggilan real time untuk Zoom, Teams, dan Google Meet. Windows 10 dan 11, demo gratis 5 hari.
 - [Asisten wawancara AI untuk Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/id/ai-interview-assistant/): Talkaside mendengar wawancara Anda dan menyarankan jawaban real time berdasarkan CV dan lowongan. Bekerja dengan Zoom, Teams, dan Google Meet.
 - [Penerjemah panggilan real time | Talkaside](https://madnessbrainsbl.github.io/talkaside/id/live-call-translator/): Terjemahkan kedua sisi panggilan secara real time di Windows. Talkaside bekerja dengan Zoom, Microsoft Teams, dan Google Meet. Demo gratis 5 hari.
 - Search phrases: asisten wawancara AI; AI interview copilot; penerjemah panggilan real time; terjemahan rapat Zoom Teams
 
 ### Tiếng Việt
-- [Talkaside: Trợ lý phỏng vấn AI và dịch cuộc gọi](https://madnessbrainsbl.github.io/talkaside/vi/): Trợ lý phỏng vấn AI gợi ý câu trả lời, kèm dịch cuộc gọi thời gian thực cho Zoom, Microsoft Teams và Google Meet. Windows 10 và 11.
-- [Trợ lý phỏng vấn AI cho Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/vi/ai-interview-assistant/): Talkaside nghe cuộc gọi phỏng vấn và gợi ý câu trả lời theo thời gian thực, dựa trên CV và công việc của bạn. Hỗ trợ Zoom, Teams và Google Meet.
-- [Phiên dịch cuộc gọi thời gian thực | Talkaside](https://madnessbrainsbl.github.io/talkaside/vi/live-call-translator/): Dịch cả hai phía của cuộc gọi theo thời gian thực trên Windows. Talkaside hoạt động với Zoom, Microsoft Teams và Google Meet. Dùng thử 5 ngày.
+- [Talkaside: Trợ lý phỏng vấn AI và dịch cuộc gọi](https://madnessbrainsbl.github.io/talkaside/vi/): Trợ lý phỏng vấn AI gợi ý câu trả lời, kèm dịch cuộc gọi thời gian thực cho Zoom, Teams và Google Meet. Windows 10 và 11, dùng thử miễn phí 5 ngày.
+- [Trợ lý phỏng vấn AI cho Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/vi/ai-interview-assistant/): Talkaside nghe cuộc gọi phỏng vấn và gợi ý câu trả lời theo thời gian thực, dựa trên CV và mô tả công việc của bạn. Hỗ trợ Zoom, Teams và Google Meet.
+- [Phiên dịch cuộc gọi thời gian thực | Talkaside](https://madnessbrainsbl.github.io/talkaside/vi/live-call-translator/): Dịch cả hai phía của cuộc gọi theo thời gian thực trên Windows. Talkaside hoạt động với Zoom, Microsoft Teams và Google Meet. Dùng thử miễn phí 5 ngày.
 - Search phrases: trợ lý phỏng vấn AI; phần mềm phỏng vấn AI Windows; phiên dịch cuộc gọi thời gian thực; dịch cuộc gọi Zoom Teams Google Meet
 
 ### Polski
-- [Talkaside: asystent AI na rozmowę kwalifikacyjną](https://madnessbrainsbl.github.io/talkaside/pl/): Asystent AI na rozmowę kwalifikacyjną podpowiada odpowiedzi, a tłumacz rozmów na żywo działa w Zoom, Teams i Google Meet. Windows 10 i 11, demo na 5 dni.
+- [Talkaside: asystent AI na rozmowę kwalifikacyjną](https://madnessbrainsbl.github.io/talkaside/pl/): Asystent AI na rozmowę kwalifikacyjną podpowiada odpowiedzi. Tłumacz rozmów na żywo w Zoom, Teams i Google Meet. Windows 10 i 11, bezpłatne demo na 5 dni.
 - [Asystent AI na rozmowę kwalifikacyjną | Talkaside](https://madnessbrainsbl.github.io/talkaside/pl/ai-interview-assistant/): Talkaside słucha rozmowy kwalifikacyjnej i podpowiada odpowiedzi na bieżąco, na podstawie CV i opisu stanowiska. Działa z Zoom, Teams i Google Meet.
 - [Tłumacz rozmów na żywo dla Zoom i Teams | Talkaside](https://madnessbrainsbl.github.io/talkaside/pl/live-call-translator/): Tłumacz obie strony rozmowy w czasie rzeczywistym na Windows. Talkaside działa z Zoom, Microsoft Teams i Google Meet. Bezpłatne demo na 5 dni.
 - Search phrases: asystent AI na rozmowę kwalifikacyjną; tłumacz rozmów na żywo; AI podpowiedzi na rozmowę o pracę; tłumaczenie rozmów Zoom na żywo
 
 ### Українська
-- [Talkaside: ШІ-асистент для співбесіди і перекладач дзвінків](https://madnessbrainsbl.github.io/talkaside/uk/): ШІ-асистент для співбесіди підказує відповіді, а перекладач дзвінків працює в Zoom, Teams і Google Meet. Windows 10 і 11, демо на 5 днів.
+- [Talkaside: ШІ-асистент для співбесіди і перекладач дзвінків](https://madnessbrainsbl.github.io/talkaside/uk/): ШІ-асистент для співбесіди підказує відповіді, а перекладач дзвінків працює в Zoom, Teams і Google Meet. Windows 10 і 11, безкоштовне демо на 5 днів.
 - [ШІ-асистент для співбесіди на Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/uk/ai-interview-assistant/): Talkaside слухає співбесіду і в реальному часі підказує відповіді на основі вашого резюме та вакансії. Працює з Zoom, Teams і Google Meet.
 - [Перекладач дзвінків наживо для Zoom і Teams | Talkaside](https://madnessbrainsbl.github.io/talkaside/uk/live-call-translator/): Перекладайте обидві сторони дзвінка в реальному часі на Windows. Talkaside працює з Zoom, Microsoft Teams і Google Meet. Безкоштовне демо на 5 днів.
 - Search phrases: ШІ-асистент для співбесіди; перекладач дзвінків онлайн; перекладач дзвінків у реальному часі; переклад дзвінків у Zoom
 
 ### Italiano
-- [Talkaside: assistente AI per colloqui e traduttore chiamate](https://madnessbrainsbl.github.io/talkaside/it/): Assistente AI per colloqui di lavoro con suggerimenti di risposta e traduttore di chiamate in tempo reale per Zoom, Teams e Google Meet.
-- [Assistente AI per colloqui di lavoro su Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/it/ai-interview-assistant/): Talkaside ascolta il tuo colloquio e suggerisce risposte in tempo reale, in base al tuo CV e all'annuncio. Funziona con Zoom, Teams e Google Meet.
+- [Talkaside: assistente AI per colloqui e chiamate tradotte](https://madnessbrainsbl.github.io/talkaside/it/): Assistente AI per colloqui con risposte suggerite e traduttore di chiamate per Zoom, Teams e Google Meet. Windows 10 e 11, demo gratuita di 5 giorni.
+- [Assistente AI per colloqui di lavoro su Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/it/ai-interview-assistant/): Talkaside ascolta il tuo colloquio e suggerisce risposte in tempo reale, in base al CV e all'annuncio di lavoro. Funziona con Zoom, Teams e Google Meet.
 - [Traduttore di chiamate in tempo reale | Talkaside](https://madnessbrainsbl.github.io/talkaside/it/live-call-translator/): Traduci entrambi i lati di una chiamata in tempo reale su Windows. Talkaside funziona con Zoom, Microsoft Teams e Google Meet. Demo gratuita di 5 giorni.
 - Search phrases: assistente ai colloquio di lavoro; copilota ai colloqui; traduttore chiamate in tempo reale; traduzione riunioni zoom
 
 ### Nederlands
-- [Talkaside: AI-sollicitatieassistent en live gesprekvertaling](https://madnessbrainsbl.github.io/talkaside/nl/): AI-sollicitatieassistent met antwoordsuggesties en live vertaler voor Zoom, Teams en Google Meet. Windows 10 en 11, gratis demo van 5 dagen.
+- [Talkaside: AI-sollicitatieassistent en live vertaling](https://madnessbrainsbl.github.io/talkaside/nl/): AI-sollicitatieassistent met antwoordsuggesties en live vertaler voor Zoom, Teams en Google Meet. Windows 10 en 11, gratis demo van 5 dagen.
 - [AI-sollicitatieassistent voor Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/nl/ai-interview-assistant/): Talkaside luistert mee tijdens je sollicitatiegesprek en stelt antwoorden voor, op basis van je cv en de vacature. Werkt met Zoom, Teams en Google Meet.
 - [Live vertaling van gesprekken op Windows | Talkaside](https://madnessbrainsbl.github.io/talkaside/nl/live-call-translator/): Vertaal beide kanten van een gesprek live op Windows. Talkaside werkt met Zoom, Microsoft Teams en Google Meet. Gratis demo van 5 dagen.
 - Search phrases: ai sollicitatiegesprek assistent; sollicitatiegesprek ai live; live vertaling gesprekken; realtime vertaler zoom

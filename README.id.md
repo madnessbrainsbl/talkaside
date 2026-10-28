@@ -4,6 +4,8 @@
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 hari, gratis, satu aktivasi per perangkat
 
+[Asisten wawancara AI dan penerjemah panggilan untuk Windows](https://madnessbrainsbl.github.io/talkaside/id/) · [Asisten wawancara AI](https://madnessbrainsbl.github.io/talkaside/id/ai-interview-assistant/) · [Penerjemah panggilan](https://madnessbrainsbl.github.io/talkaside/id/live-call-translator/)
+
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 
 ![Talkaside](social-preview.png)
@@ -12,10 +14,10 @@ Talkaside adalah asisten wawancara AI dan penerjemah panggilan real time untuk W
 
 Ia bekerja dengan aplikasi panggilan yang sudah Anda pakai, seperti Zoom, Microsoft Teams, atau Google Meet, dan menerjemahkan kedua sisi percakapan secara real time di antara bahasa yang Anda pilih.
 
-## Tempat orang menggunakannya
+## Cocok untuk
 
 - **Wawancara kerja.** Dapatkan saran jawaban untuk pertanyaan yang baru Anda dengar, berdasarkan CV dan deskripsi pekerjaan Anda.
-- **Panggilan bahasa lain.** Ikuti klien atau rekan yang berbicara dalam bahasa yang tidak Anda kuasai, dan balas dengan bahasa Anda.
+- **Panggilan dalam bahasa lain.** Ikuti klien atau rekan yang berbicara dalam bahasa yang tidak Anda kuasai, dan balas dengan bahasa Anda.
 - **Latihan bahasa.** Latih bahasa dalam percakapan nyata dan tinjau transkripnya setelah itu.
 
 ## Saran wawancara dan terjemahan panggilan dalam satu aplikasi
@@ -24,13 +26,13 @@ Ia bekerja dengan aplikasi panggilan yang sudah Anda pakai, seperti Zoom, Micros
 
 **Jawaban Anda, kata-kata Anda.** Dua asisten AI menyusun jawaban dari transkrip langsung, CV, dan lowongan Anda. Anda mengucapkannya dengan cara Anda sendiri.
 
-**My Voice.** Rekam 10 sampai 60 detik untuk profil suara lokal. Membutuhkan NVIDIA GPU.
+**My Voice.** Rekam 10 sampai 60 detik untuk profil suara lokal. Membutuhkan GPU NVIDIA.
 
-**Panel mengambang.** Jendela kecil selalu di atas untuk saran, dirancang agar tidak muncul di pembagian layar yang didukung. Alat perekam berbeda, jadi coba dulu dengan alat Anda.
+**Panel mengambang.** Jendela kecil selalu di atas untuk saran, dirancang agar tidak muncul di pembagian layar yang didukung. Uji dulu dengan aplikasi berbagi layar Anda.
 
 **Riwayat lokal.** Transkrip dan sesi disimpan di PC Anda. Merekam panggilan bersifat opsional dan mati sampai Anda menyalakannya.
 
-**Tanpa server Talkaside di jalur.** Ucapan dan teks hanya dikirim ke penyedia yang Anda atur. Mereka melihat apa yang Anda kirim, jadi pilihlah dengan hati-hati.
+**Tanpa server Talkaside di jalur audio.** Ucapan dan teks hanya dikirim ke penyedia yang Anda atur. Mereka melihat apa yang Anda kirim, jadi pilihlah dengan hati-hati.
 
 ## Pertanyaan yang sering diajukan
 

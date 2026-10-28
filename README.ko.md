@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: 면접 AI 도우미와 실시간 통화 번역
+# Talkaside: Windows용 면접 AI 도우미와 실시간 통화 번역
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5일 무료 데모
+
+[Windows용 면접 AI 도우미와 실시간 통화 번역](https://madnessbrainsbl.github.io/talkaside/ko/) · [면접 AI 도우미](https://madnessbrainsbl.github.io/talkaside/ko/ai-interview-assistant/) · [실시간 통화 번역](https://madnessbrainsbl.github.io/talkaside/ko/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

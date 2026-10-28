@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: AI面接アシスタントとリアルタイム通話翻訳
+# Talkaside: Windows向けAI面接アシスタントとリアルタイム通話翻訳
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5日間の無料デモ
+
+[Windows向けAI面接アシスタントとリアルタイム通話翻訳](https://madnessbrainsbl.github.io/talkaside/ja/) · [AI面接アシスタント](https://madnessbrainsbl.github.io/talkaside/ja/ai-interview-assistant/) · [リアルタイム通話翻訳](https://madnessbrainsbl.github.io/talkaside/ja/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 

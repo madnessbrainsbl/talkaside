@@ -1,14 +1,16 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: AI-assistent voor sollicitatiegesprekken met live vertaling
+# Talkaside: AI-assistent voor sollicitatiegesprekken met live vertaling op Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 dagen, gratis, één activatie per apparaat
+
+[AI-assistent voor sollicitatiegesprekken met live vertaling op Windows](https://madnessbrainsbl.github.io/talkaside/nl/) · [AI-sollicitatieassistent](https://madnessbrainsbl.github.io/talkaside/nl/ai-interview-assistant/) · [Live gespreksvertaling](https://madnessbrainsbl.github.io/talkaside/nl/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 
 ![Talkaside](social-preview.png)
 
-Talkaside is een AI-sollicitatieassistent en een live gesprekvertaler voor Windows. Het luistert mee, schrijft het transcript terwijl er gesproken wordt en stelt antwoorden voor op de vragen die je hoort.
+Talkaside is een AI-sollicitatieassistent en een live gespreksvertaler voor Windows. Het luistert mee, schrijft het transcript terwijl er gesproken wordt en stelt antwoorden voor op de vragen die je hoort.
 
 Talkaside werkt met de gesprekssoftware die je al gebruikt, zoals Zoom, Microsoft Teams of Google Meet, en vertaalt beide kanten van het gesprek live tussen de talen die je kiest.
 
@@ -22,15 +24,15 @@ Talkaside werkt met de gesprekssoftware die je al gebruikt, zoals Zoom, Microsof
 
 **Beide kanten, vertaald terwijl ze praten.** Beide kanten worden live getranscribeerd en vertaald, in twee richtingen. Je volgt de ander en antwoordt in je eigen taal.
 
-**Antwoorden in je eigen woorden.** Twee AI-assistenten maken een antwoord op basis van het transcript, je cv en de vacature. Jij zegt het op jouw manier.
+**Antwoorden in je eigen woorden.** Twee AI-assistenten maken antwoorden op basis van het transcript, je cv en de vacature. Jij zegt ze op jouw manier.
 
 **My Voice.** Neem 10 tot 60 seconden op voor een lokaal stemprofiel. Vereist een NVIDIA-GPU.
 
-**Zwevend paneel.** Een klein venster altijd bovenop voor suggesties, ontworpen om buiten ondersteunde schermdelingen te blijven. Deelmethodes verschillen, test de jouwe eerst.
+**Zwevend paneel.** Een klein venster altijd bovenop voor suggesties, ontworpen om buiten beeld te blijven bij ondersteunde schermdelingen. Test eerst je eigen schermdeling.
 
 **Lokale geschiedenis.** Transcripten en sessies worden op je pc opgeslagen. Opnemen van het gesprek is optioneel en staat uit tot je het aanzet.
 
-**Geen Talkaside-server onderweg.** Spraak en tekst gaan alleen naar de spraak- en AI-providers die je instelt. Zij zien wat je naar ze stuurt, kies ze dus met die gedachte.
+**Geen Talkaside-server onderweg.** Spraak en tekst gaan alleen naar de spraak- en AI-providers die je instelt. Zij zien wat je naar ze stuurt, dus kies ze zorgvuldig uit.
 
 ## Veelgestelde vragen
 
@@ -38,19 +40,19 @@ Talkaside werkt met de gesprekssoftware die je al gebruikt, zoals Zoom, Microsof
 Windows 10 en 11, 64-bit. Er is geen versie voor andere systemen.
 
 **Is de demo echt gratis?**
-Ja. Hij duurt 5 dagen met één activatie per apparaat. Cloud-AI- en spraakproviders factureren je apart.
+Ja. Hij duurt 5 dagen met één activatie per apparaat. Cloudproviders voor AI en spraak factureren je apart.
 
 **Waar gaat mijn audio naartoe?**
 Alleen naar de spraak- en AI-providers die je instelt. Er staat geen Talkaside-server in het audiopad.
 
 **Waarom toont Windows een waarschuwing?**
-Het installatieprogramma is niet gecodeondertekend, dus Windows SmartScreen kan bij de eerste start waarschuwen.
+Het installatieprogramma is niet codeondertekend, dus Windows SmartScreen kan bij de eerste start waarschuwen.
 
 **Kan ik mijn gesprekken bewaren?**
 Transcripten en sessies worden op je pc opgeslagen. Opnemen is optioneel en staat uit tot je het aanzet.
 
 **Werkt het met Zoom, Microsoft Teams en Google Meet?**
-Ja. Talkaside neemt het geluid van het gesprek op via Windows, dus het werkt met de gesprekssoftware die je al gebruikt.
+Ja. Talkaside vangt het geluid van het gesprek op via Windows, dus het werkt met de gesprekssoftware die je al gebruikt.
 
 **Welke talen kan het vertalen?**
 Veel talen. De ondersteuning hangt af van de providers voor spraakherkenning en vertaling die je kiest.

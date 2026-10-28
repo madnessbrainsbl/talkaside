@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: Assistente AI per colloqui di lavoro e traduzione in diretta
+# Talkaside: Assistente AI per colloqui di lavoro e traduzione in diretta su Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · 5 giorni, gratis, un'attivazione per dispositivo
+
+[Assistente AI per colloqui di lavoro e traduzione in diretta su Windows](https://madnessbrainsbl.github.io/talkaside/it/) · [Assistente AI per colloqui](https://madnessbrainsbl.github.io/talkaside/it/ai-interview-assistant/) · [Traduttore di chiamate](https://madnessbrainsbl.github.io/talkaside/it/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 
@@ -22,15 +24,15 @@ Talkaside funziona con l'app di chiamate che già usi, come Zoom, Microsoft Team
 
 **Entrambi i lati, tradotti mentre parlano.** Entrambi i lati vengono trascritti e tradotti in tempo reale, nei due sensi. Segui l'altra persona e rispondi nella tua lingua.
 
-**Risposte con le tue parole.** Due assistenti AI preparano la risposta dalla trascrizione, dal CV e dall'annuncio di lavoro. Tu la dici a modo tuo.
+**Risposte con le tue parole.** Due assistenti AI preparano la risposta a partire dalla trascrizione, dal CV e dall'annuncio di lavoro. Tu la pronunci a modo tuo.
 
 **My Voice.** Registra da 10 a 60 secondi per creare un profilo vocale locale. Serve una GPU NVIDIA.
 
-**Pannello flottante.** Una piccola finestra sempre in primo piano per i suggerimenti, progettata per restare fuori dalle condivisioni dello schermo supportate. Prova prima la tua.
+**Pannello fluttuante.** Una piccola finestra sempre in primo piano per i suggerimenti, progettata per restare fuori dalle condivisioni dello schermo supportate. Prova prima la tua condivisione.
 
 **Cronologia locale.** Trascrizioni e sessioni sono salvate sul tuo PC. La registrazione della chiamata è facoltativa e disattivata finché non la attivi.
 
-**Nessun server Talkaside nel percorso.** Voce e testo vanno solo ai fornitori di riconoscimento vocale e di AI che configuri. Vedono ciò che invii, quindi scegliili tenendolo presente.
+**Nessun server Talkaside nel percorso.** Voce e testo vanno solo ai fornitori di voce e AI che configuri. Vedono ciò che invii, quindi sceglili con attenzione.
 
 ## Domande e risposte
 

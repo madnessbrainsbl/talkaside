@@ -1,8 +1,10 @@
 <p align="center"><img src="logo.svg" alt="Talkaside" width="72"></p>
 
-# Talkaside: ИИ помощник для собеседований и переводчик звонков для Windows
+# Talkaside: ИИ-ассистент для собеседований и переводчик звонков для Windows
 
 **[talkaside.com](https://talkaside.com/)** · Windows 10/11 · бесплатное демо на 5 дней
+
+[ИИ-ассистент для собеседований и переводчик звонков для Windows](https://madnessbrainsbl.github.io/talkaside/) · [ИИ-ассистент на собеседовании](https://madnessbrainsbl.github.io/talkaside/ai-interview-assistant/) · [Переводчик звонков](https://madnessbrainsbl.github.io/talkaside/live-call-translator/)
 
 [English](README.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt-BR.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [Türkçe](README.tr.md) · [Bahasa Indonesia](README.id.md) · [Tiếng Việt](README.vi.md) · [Polski](README.pl.md) · [Українська](README.uk.md) · [Italiano](README.it.md) · [Nederlands](README.nl.md)
 
