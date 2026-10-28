@@ -104,6 +104,13 @@
   });
 
 
+
+  var codesNav = d.querySelector(".codes");
+  var codeCur = codesNav && codesNav.querySelector('[aria-current="page"]');
+  if (codeCur && codesNav.scrollWidth > codesNav.clientWidth) {
+    codesNav.scrollLeft = codeCur.offsetLeft - codesNav.offsetLeft - (codesNav.clientWidth - codeCur.offsetWidth) / 2;
+  }
+
   var bar = d.querySelector(".bar");
   var strip = d.querySelector(".strip");
   if (bar && strip && "IntersectionObserver" in window) {
